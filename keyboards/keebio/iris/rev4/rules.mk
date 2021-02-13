@@ -20,4 +20,4 @@ RGBLIGHT_ENABLE = yes       # Enable WS2812 RGB underlight.
 SPLIT_KEYBOARD = yes
 ENCODER_ENABLE = yes
 
-LTO_ENABLE = yes
+DYNAMIC_MACRO_ENABLE = yes
