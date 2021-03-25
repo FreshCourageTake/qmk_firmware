@@ -36,4 +36,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_VAL_STEP 8
 
 #define IGNORE_MOD_TAP_INTERRUPT
-#define TAPPING_TERM 175
+#define TAPPING_TERM 165
+#define TAPPING_FORCE_HOLD_PER_KEY
